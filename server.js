@@ -1,3 +1,5 @@
+'use strict';
+
 const express = require('express');
 const robot = require("robotjs");
 const parser = require('body-parser');
